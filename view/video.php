@@ -1,5 +1,5 @@
 <?php 
-var_dump($params['video']['data']);
+//var_dump($params['video']['data']);
 //require_once  'header.php';
 ?>
 <h1>Video</h1>
