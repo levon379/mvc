@@ -1,0 +1,141 @@
+
+
+            #f1267658333301 .l0 {
+                position: absolute;
+                z-index: 3;
+                left: 13.312501%;
+                top: 78.57143%;
+                width: 3.125%;
+                height: 3.0%;
+            }
+
+
+            #f1267658333301 .l1 {
+                position: absolute;
+                z-index: 2;
+                left: 0.5%;
+                top: 1.7142856%;
+                width: 99.5625%;
+                height: 104.28572%;
+            }
+
+            <!-- Use medium size and small size for 1267658333301 -->
+            .f700x1600 {
+                width : 1280.0px;
+                height : 560.0px;
+            }
+            .f700x1600 .ftr {
+                width : 1280.0px;
+                height : 560.0px;
+            }
+            .f700x1600 .desc {
+                width : 1280.0px;
+            }
+
+            @media (min-width: 1220px){
+
+                .f700x1600 {
+                    width : 1600.0px;
+                    height : 700.0px;
+                }
+                .f700x1600 .ftr {
+                    width : 1600.0px;
+                    height : 700.0px;
+                }
+                .f700x1600 .desc {
+                    width : 1600.0px;
+                }
+
+            }
+
+            <!-- Use medium size and small size for 1267658166467 -->
+            .f310x1180 {
+                width : 944.0px;
+                height : 248.0px;
+            }
+            .f310x1180 .ftr {
+                width : 944.0px;
+                height : 248.0px;
+            }
+            .f310x1180 .desc {
+                width : 944.0px;
+            }
+
+            @media (min-width: 1220px){
+
+                .f310x1180 {
+                    width : 1180.0px;
+                    height : 310.0px;
+                }
+                .f310x1180 .ftr {
+                    width : 1180.0px;
+                    height : 310.0px;
+                }
+                .f310x1180 .desc {
+                    width : 1180.0px;
+                }
+
+            }
+
+            <!-- Use medium size and small size for 1267658166621 -->
+            .f700x1180 {
+                width : 944.0px;
+                height : 560.0px;
+            }
+            .f700x1180 .ftr {
+                width : 944.0px;
+                height : 560.0px;
+            }
+            .f700x1180 .desc {
+                width : 944.0px;
+            }
+
+            @media (min-width: 1220px){
+
+                .f700x1180 {
+                    width : 1180.0px;
+                    height : 700.0px;
+                }
+                .f700x1180 .ftr {
+                    width : 1180.0px;
+                    height : 700.0px;
+                }
+                .f700x1180 .desc {
+                    width : 1180.0px;
+                }
+
+            }
+
+            <!-- Use medium size and small size for 1267658167781 -->
+            .f648x1180 {
+                width : 944.0px;
+                height : 518.4px;
+            }
+            .f648x1180 .ftr {
+                width : 944.0px;
+                height : 518.4px;
+            }
+            .f648x1180 .desc {
+                width : 944.0px;
+            }
+
+            @media (min-width: 1220px){
+
+                .f648x1180 {
+                    width : 1180.0px;
+                    height : 648.0px;
+                }
+                .f648x1180 .ftr {
+                    width : 1180.0px;
+                    height : 648.0px;
+                }
+                .f648x1180 .desc {
+                    width : 1180.0px;
+                }
+
+            }
+
+
+
+
+      

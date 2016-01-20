@@ -1,0 +1,17 @@
+# 
+#Options +FollowSymLinks
+#
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{REQUEST_URI} !-f
+#RewriteCond %{REQUEST_URI} !-d
+#RewriteCond %{REQUEST_URI} !-l
+#
+#RewriteRule ^([^/]*)/([^/]*)/([^/]*)/([^/]*)/(.*)$ index.php?controller=$2&action=$3&param1=$4&param2=$5 [NC,L]
+RewriteEngine On
+ 
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+#RewriteRule ^.*$ ./index.php
+RewriteRule (.*) index.php/$1 [L]
